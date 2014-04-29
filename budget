@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+
+
+def display_main_menu
+  menu = <<EOS
+Welcome!
+--------------------
+What would you like to do?
+1. Select an Existing Budget
+2. Create a New Budget
+--------------------
+Type 'Q' to Quit
+--------------------
+Select a Number:
+EOS
+puts menu
+user_selection = gets.chomp
+if user_selection == 'Q'
+  quit_selected
+end
+end
+
+def quit_selected
+  puts "Goodbye!"
+end
+
+
+display_main_menu

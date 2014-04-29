@@ -17,7 +17,7 @@ As a user
 In order to navigate the program  
 I want to select a number from the main menu  
 
--  User runs `budget <budget name>
+-  User runs `budget <budget name>`
 -  Menu selections display
 -  User selects number
 
