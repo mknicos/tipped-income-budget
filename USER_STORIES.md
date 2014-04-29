@@ -1,9 +1,9 @@
 USER STORIES
 ============
 
-As a user
-In order to budget my finances
-I want to create a new budget
+As a user  
+In order to budget my finances  
+I want to create a new budget  
 
   -User runs `budget new <budget name>`
   -Budget is created, added to database
@@ -13,9 +13,9 @@ I want to create a new budget
 
 ***
 
-As a user
-In order to navigate the program
-I want to select a number from the main menu
+As a user  
+In order to navigate the program  
+I want to select a number from the main menu  
 
   -User runs `budget <budget name>
   -Menu selections display
@@ -23,9 +23,9 @@ I want to select a number from the main menu
 
 ***
 
-As a user
-In order to see my curent financial state
-I want to view my balanced budget
+As a user  
+In order to see my curent financial state  
+I want to view my balanced budget  
 
   -User runs `budget <budget name>`
   -Budget displays financial state for the week & month
@@ -33,9 +33,9 @@ I want to view my balanced budget
 
 ***
 
-As a user
-In order to compare income with expenses
-I want to add a new expense
+As a user  
+In order to compare income with expenses  
+I want to add a new expense  
 
   -User runs `budget <budget name>`
   -User selects 'Add Expense'
@@ -45,9 +45,9 @@ I want to add a new expense
 
 ***
 
-As a user
-In order to compare income with expenses
-I want to add income
+As a user  
+In order to compare income with expenses  
+I want to add income  
 
   -User runs `budget <budget name>`
   -User selects `Add Income`
