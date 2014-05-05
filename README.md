@@ -10,7 +10,7 @@ for people with unknown or varying income, such as tipped employees.
   Written in Ruby, using SQLite software library as the database engine.
 
 ## Setup
-  Clone this repository, run `budget` from the root directory
+  Clone this repository, run `./budget` from the root directory
 
 ## Usage Guide
 
